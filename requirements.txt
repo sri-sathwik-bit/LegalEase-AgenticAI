@@ -1,0 +1,4 @@
+streamlit>=1.56.0
+firecrawl-py>=4.22.2
+google-genai>=1.0.0
+python-dotenv>=1.0.1
