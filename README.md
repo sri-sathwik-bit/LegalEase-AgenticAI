@@ -11,12 +11,21 @@ This agentic ai fetches text from a URL with firecrawl, this data is sent to gem
  ************************************
  
 
- Step 1: Create a file named ".env"  
- Step 2: Open the file in notepad, generate your gemini and firecrawl api keys  
+ Step 1: Create a file named ".env"
+
+ 
+ Step 2: Open the file in notepad, generate your gemini and firecrawl api keys
+
+ 
  Step 3: Type down(do not include curly braces):  
  GEMINI_API_KEY={YOUR GEMINI API KEY}  
- FIRECRAWL_API_KEY={YOUR FIRECRAWL API KEY}  
- Step 4: Since this is a streamlit file, open terminal, change to the directory with app.py alongside .env, and run   "streamlit run app.py"
+ FIRECRAWL_API_KEY={YOUR FIRECRAWL API KEY}
+
+ 
+ Step 4: Since this is a streamlit file, open terminal, change to the directory with app.py alongside .env, and run
+ 
+ 
+ "streamlit run app.py"
 
 
  (OR)
